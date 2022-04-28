@@ -1,6 +1,6 @@
-# {{ name }}
+# {{ 谷粒学院前台用户端 }}
 
-> {{ description }}
+> {{ 谷粒学院前台用户端 }}
 
 ## Build Setup
 
